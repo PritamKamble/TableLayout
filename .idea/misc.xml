@@ -36,6 +36,6 @@
     <option name="id" value="Android" />
   </component>
   <component name="TerminalProjectOptionsProvider">
-    <option name="myStartingDirectory" value="$PROJECT_DIR$/../.." />
+    <option name="myStartingDirectory" value="$USER_HOME$" />
   </component>
 </project>
