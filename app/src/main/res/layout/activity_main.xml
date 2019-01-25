@@ -24,7 +24,6 @@
 
     <!-- this is second row-->
     <TableRow>
-
         <TextView
             android:text="First Name"
             android:layout_width="wrap_content"
